@@ -1,0 +1,20 @@
+{
+  "name": "hubot-dev",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Christophe Hamerling <chamerling@linagora.com>",
+  "description": "💣💣💣 My hubot instance for scripts hacks 💣💣💣",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-help": "^0.2.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shell": "^1.0.2",
+    "hubot-twitterstream": "0.0.4",
+    "hubot-jira-expand": "0.0.1",
+    "hubot-beer": "^0.0.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
