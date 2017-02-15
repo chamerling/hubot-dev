@@ -2,5 +2,7 @@
   "hubot-help",
   "hubot-redis-brain",
   "hubot-jira-expand",
-  "hubot-twitterstream"
+  "hubot-github-expand",
+  "hubot-dockerhub",
+  "hubot-lingif"
 ]

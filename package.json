@@ -10,9 +10,10 @@
     "hubot-redis-brain": "0.0.3",
     "hubot-scripts": "^2.17.2",
     "hubot-shell": "^1.0.2",
-    "hubot-twitterstream": "0.0.4",
     "hubot-jira-expand": "0.0.1",
-    "hubot-beer": "^0.0.1"
+    "hubot-beer": "^0.0.1",
+    "hubot-dockerhub": "0.0.0",
+    "hubot-lingif": "0.0.2"
   },
   "engines": {
     "node": "0.10.x"
